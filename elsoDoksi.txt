@@ -1,1 +1,26 @@
-ez is megvan
+Projekt terv
+
+Csapattagok:
+-Józsa Dávid(scrum master)
+-Pósa Noé
+-Herczeg Dávid
+-Nagy Zsombor
+
+
+Célkitűzés:
+
+Célunk egy rendkívül dizájnos és speciális funkciókkal ellátott személyi szálloda szobafoglaló weboldal létrehozása. A weboldalon a felhasználó képes lekérni adatbázisból a szobákat, hogy foglaltak-e, hogy mikor lesznek szabadok és ha nem foglalt akkor foglalni.
+
+Technológiák:
+-Szoftverek:
+-XAMPP, node js
+-Visual Studio Code
+
+-nyelvek:
+-HTML
+-CSS
+-JS
+-MYSQL
+-Bootstrap
+
+Funkciók
