@@ -31,3 +31,10 @@ Funkciók:
 -Lekérni, hogy melyik szoba mikor lesz szabad
 -Szobafoglalás, ha szabad a szoba vagy akkorra amikor szabad lesz
 -Vélemény írása, megtekintése
+
+
+Munkamegoasztas:
+-Józsa Dávid : Ő foglalkozik a javascriptel és az adatbázissal (A háttérlogika megvalósítását végzi és a karbantartásáért és optimalizálásáért felel)
+-Nagy Zsombor: Ő foglalkozik a Html-el és az oldal tesztelésével (Hibákat keres és a grafikai munka megvalósítását végzi)
+-Pósa Noé: Ő foglalkozik a weboldal grafikai kinézetével (Megtervezi a weboldal kinézetét)
+-Herczeg Dávid : Ő foglalkozik a weboldal tartalomfejlesztésével és Szövegírásával (A weboldal szöveges tartalmainak megírásáért felel)
