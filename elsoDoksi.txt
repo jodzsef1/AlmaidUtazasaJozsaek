@@ -13,7 +13,7 @@ Célunk egy rendkívül dizájnos és speciális funkciókkal ellátott személy
 
 Technológiák:
 -Szoftverek:
--XAMPP, node js
+-XAMPP
 -Visual Studio Code
 
 -nyelvek:
@@ -23,4 +23,11 @@ Technológiák:
 -MYSQL
 -Bootstrap
 
-Funkciók
+Funkciók:
+-Képek megtekintése a szállodáról
+-Szálloda helyzete a térképen
+-Szobák megtekintése
+-Lekérni, hogy melyik szoba foglalt
+-Lekérni, hogy melyik szoba mikor lesz szabad
+-Szobafoglalás, ha szabad a szoba vagy akkorra amikor szabad lesz
+-Vélemény írása, megtekintése
