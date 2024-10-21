@@ -13,15 +13,15 @@ Célunk egy rendkívül dizájnos és speciális funkciókkal ellátott személy
 
 Technológiák:
 -Szoftverek:
--XAMPP
--Visual Studio Code
+-XAMPP:Tartalmazza a MariaDB-t, a PHP-t és a Perl-t. Széles körben használják helyi szerverkörnyezetként webfejlesztéshez.
+-Visual Studio Code:A Visual Studio Code (rövidítve: VSCode vagy VS Code) egy ingyenes, nyílt forráskódú kódszerkesztő.
 
 -nyelvek:
--HTML
--CSS
--JS
--MYSQL
--Bootstrap
+-HTML:A Visual Studio Code (rövidítve: VSCode vagy VS Code) egy ingyenes, nyílt forráskódú kódszerkesztő.
+-CSS:A CSS (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok) egy stílusleíró nyelv, amelyet a HTML vagy XHTML típusú strukturált dokumentumok megjelenésének meghatározására használnak.
+-JS:A JavaScript (JS) egy könnyű, értelmezett (vagy éppen időben fordított) programozási nyelv, amely első osztályú függvényekkel rendelkezik
+-MYSQL:A MySQL egy nyílt forráskódú, SQL-alapú relációs adatbázis-kezelő rendszer.
+-Bootstrap:A Bootstrap egy nyílt forráskódú keretrendszer (framework).
 
 Funkciók:
 -Képek megtekintése a szállodáról
