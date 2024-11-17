@@ -1,0 +1,27 @@
+:root {
+    --kek: #a2c2d768;
+    --feher: #F4F5F9;
+    --szen: #2E3A42;
+}
+
+/* Navbar stílus */
+.navbar {
+    background-color: var(--kek);
+    box-shadow: 10px 10px 100px;
+}
+
+.navbar-nav .nav-link {
+    color: var(--feher) !important;
+    text-shadow: black 1px 1px 1px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: var(--szen) !important;
+    background-color: rgba(255, 255, 255, 0.278);
+}
+
+.navbar-brand {
+    color: var(--feher) !important;
+    font-weight: bold;
+    text-shadow: #2E3A42 2px 2px;
+}
