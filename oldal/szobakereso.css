@@ -1,0 +1,66 @@
+body{
+    background-image: url("/AlmaidUtazasaJozsaek/oldal/kepek/hatter3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Általános konténer és szoba stílusok */
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+    padding: 40px;
+    justify-items: center;
+}
+
+.szoba {
+    background-color: rgba(255, 255, 255, 0.9); /* Fehér háttér */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+}
+
+.szoba:hover {
+    transform: translateY(-10px); /* Kis mozgás a hover effektushoz */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.szoba a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.szoba h2 {
+    font-size: 1.6rem;
+    text-align: center;
+    color: var(--kek);
+    margin: 15px 0;
+    font-weight: bold;
+    text-shadow: #2E3A42 1px 1px 1px;
+}
+
+.szoba img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-bottom: 2px solid #ddd;
+    transition: transform 0.3s ease;
+}
+
+.szoba img:hover {
+    transform: scale(1.05); /* Kis animáció a képeken */
+}
+
+/* Mobilbarát dizájn */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .szoba h2 {
+        font-size: 1.4rem;
+    }
+}
