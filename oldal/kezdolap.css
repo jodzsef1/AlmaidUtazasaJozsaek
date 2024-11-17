@@ -1,0 +1,49 @@
+body{
+    background-image: url("./kepek/hatter.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+.elvalaszto {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.elvalaszto .bal {
+    flex: 1;
+    color: var(--feher);
+    text-shadow: #2E3A42 3px 3px 3px;
+}
+.elvalaszto .jobb img {
+    width: 100%;
+    max-width: 500px; /* Maximális szélesség a nagy képekhez */
+    height: auto;
+    border-radius: 8px;
+}
+.maosdik {
+    color: #F4F5F9;
+    text-shadow: #2E3A42 1px 1px 1px;
+    text-align: center;
+    margin-top: 50px;
+}
+.maosdik h2 {
+    margin-bottom: 20px;
+}
+.maosdik a {
+    text-decoration: none;
+    background-color:var(--kek);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    border: none;
+}
+.maosdik a:hover {
+    background-color: rgba(245, 245, 245, 0.484);
+    color: var(--szen);
+}
+.contener{
+    background-color: rgba(245, 245, 245, 0.142);
+}
