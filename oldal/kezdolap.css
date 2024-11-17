@@ -47,3 +47,94 @@ body{
 .contener{
     background-color: rgba(245, 245, 245, 0.142);
 }
+/* Vélemények szekció */
+.velemenyek {
+    background-color: rgba(0, 0, 0, 0.5); /* Félátlátszó háttér */
+    color: #F4F5F9;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.velemenyek h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: var(--kek); /* Kék szín */
+    text-shadow: #2E3A42 2px 2px 3px;
+}
+
+.velemenyek h4 {
+    font-size: 1rem;
+    margin-bottom: 30px;
+    color: #F4F5F9;
+    text-shadow: #2E3A42 1px 1px 1px;
+}
+
+.velemenyek form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.velemenyek input[type="text"] {
+    padding: 10px;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 400px; /* Maximális szélesség */
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.velemenyek input[type="text"]:focus {
+    border-color: var(--kek); /* Kék szín fókuszban */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.velemenyek button {
+    background-color: var(--kek);
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s ease-in-out;
+}
+
+.velemenyek button:hover {
+    background-color: rgba(245, 245, 245, 0.484);
+    color: var(--szen);
+    transform: scale(1.05); /* Kis animáció a gombon */
+}
+
+/* Mobilbarát dizájn */
+@media (max-width: 768px) {
+    .velemenyek {
+        padding: 30px 15px;
+    }
+
+    .velemenyek h1 {
+        font-size: 1.6rem;
+    }
+
+    .velemenyek h4 {
+        font-size: 0.9rem;
+    }
+
+    .velemenyek input[type="text"] {
+        font-size: 0.9rem;
+        max-width: 300px;
+    }
+
+    .velemenyek button {
+        font-size: 0.9rem;
+        padding: 8px 15px;
+    }
+}
