@@ -1,0 +1,47 @@
+Projekt terv
+
+Csapattagok:
+-Józsa Dávid(scrum master)
+-Pósa Noé
+-Herczeg Dávid
+-Nagy Zsombor
+
+
+Célkitűzés:
+
+Célunk egy rendkívül dizájnos és speciális funkciókkal ellátott személyi szálloda szobafoglaló weboldal létrehozása. A weboldalon a felhasználó képes lekérni adatbázisból a szobákat, hogy foglaltak-e, hogy mikor lesznek szabadok és ha nem foglalt akkor foglalni.
+
+Technológiák:
+-Szoftverek:
+-XAMPP
+-Visual Studio Code
+
+-nyelvek:
+-HTML
+-CSS
+-JS
+-MYSQL
+-Bootstrap
+
+Funkciók:
+-Képek megtekintése a szállodáról
+-Szálloda helyzete a térképen
+-Szobák megtekintése
+-Lekérni, hogy melyik szoba foglalt
+-Lekérni, hogy melyik szoba mikor lesz szabad
+-Szobafoglalás, ha szabad a szoba vagy akkorra amikor szabad lesz
+-Vélemény írása, megtekintése
+
+
+Munkamegoasztas:
+-Józsa Dávid : Ő foglalkozik a javascriptel és az adatbázissal (A háttérlogika megvalósítását végzi és weboldal  karbantartásáért és optimalizálásáért felel)
+-Nagy Zsombor: Ő foglalkozik a Html-el és az oldal tesztelésével (Hibákat keres és a grafikai munka megvalósítását végzi)
+-Pósa Noé: Ő foglalkozik a weboldal grafikai kinézetével (Megtervezi a weboldal kinézetét)
+-Herczeg Dávid : Ő foglalkozik a weboldal tartalomfejlesztésével és Szövegírásával (A weboldal szöveges tartalmainak megírásáért felel)
+
+Első sprint:
+-Nagy Zsombor és Józsa Dávid (Dokumentum)
+-Herczeg Dávid és Pósa Noé (Látványterv)
+
+
+
